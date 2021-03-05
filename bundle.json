@@ -12,5 +12,5 @@
         "uais_globals_a_1_0"
     ],
     "main":"uais_chimera",
-    "output": "D:\\Users\\Sledmine\\Documents\\My Games\\Halo CE\\chimera\\lua\\scripts\\global\\uais_client.lua"
+    "output": "dist\\uais_client.lua"
 }

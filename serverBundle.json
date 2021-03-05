@@ -12,5 +12,5 @@
         "uais_globals_a_1_0"
     ],
     "main":"uais_sapp",
-    "output": "D:\\Users\\Sledmine\\Documents\\My Games\\Halo CE\\sapp\\lua\\uais_server.lua"
+    "output": "dist\\uais_server.lua"
 }
