@@ -1,0 +1,16 @@
+{
+    "label": "uais",
+    "name": "Universal AI Sync",
+    "description": "AI Sync for Halo Custom Edition using Chimera",
+    "version": "1.0.0",
+    "author": "IceCrow14&Sled",
+    "internalVersion": "1.0.0",
+    "manifestVersion": "1.0",
+    "files": [
+        {
+            "path": "uais_client.lua",
+            "outputPath": "$mygames\\chimera\\lua\\scripts\\global\\",
+            "type": "binary"
+        }
+    ]
+}

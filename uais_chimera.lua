@@ -53,7 +53,7 @@ function OnRcon(Message)
 					-- Pending: "u"
 					UpdateBiped(Message)
 				end
-				console_out(action_char)
+				--console_out(action_char)
 				return false
 			else
 				if Message == globals_module.rc_handshake_message then
